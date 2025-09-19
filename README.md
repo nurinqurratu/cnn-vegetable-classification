@@ -26,6 +26,15 @@ Through a series of experiments, different CNN configurations were evaluated by 
 
 ---
 
+## 📂 Dataset
+- The dataset consists of **100 images for each vegetable class**:  
+  **Tomato, Carrot, Broccoli, and Cucumber**.  
+- Images were collected and preprocessed (resized, normalized) before training.  
+- Due to size constraints, the dataset is **not included** in this repository.  
+- The dataset is available upon request.  
+
+---
+
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
